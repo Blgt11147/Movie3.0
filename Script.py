@@ -10,9 +10,9 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/VJMasterBlastBot>ᵗʰᵃˡᵃᵖᵃᵗʰʸ ᶠⁱˡᵗᵉʳ ᵇᵒᵗ 🇮🇳</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Baljeet_singh1114>ᵗʰᵃˡᵃᵖᵃᵗʰʸ ᶠⁱˡᵗᵉʳ ᵇᵒᵗ 🇮🇳</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/kingvj01'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Baljeet_singh1114'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -24,10 +24,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://youtube.com/@Tech_VJ'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Where is source code? - <a href='https://t.me/Baljeet_singh1114'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
-Developer - <a href='https://t.me/KingVj01'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+Developer - <a href='https://t.me/Baljeet_singh1114'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
 
 
@@ -54,7 +54,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/vjupdates2/3)</code>
+<code>[Button Text](buttonurl:https://t.me/Baljeet_singh1114/3)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -87,9 +87,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/KingVj01>☢VJ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Baljeet_singh1114>☢VJ☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/vj_bots>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/Baljeet_singh1114>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
