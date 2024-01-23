@@ -1,6 +1,6 @@
-Movierequest# Don't Remove Credit @VJ_Botz
+Movierequest# Don't Remove Credit @Baljeet_singh1114
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @Baljeet_singh1114
 
 FROM python:3.10.8-slim-buster
 
